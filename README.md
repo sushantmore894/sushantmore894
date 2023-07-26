@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sushant</h1>
-<h3 align="center">"I am an enthusiastic Computer lover from India, fueled by the vibrant energy of this incredible nation. With a passion for technology, I delve into the intricate world of programming and computer concepts, constantly expanding my knowledge to unlock new possibilities."</h3>
+<h3 align="center">"I am an enthusiastic Computer Engineer from India, fueled by the vibrant energy of this incredible nation. With a passion for technology, I delve into the intricate world of programming and computer concepts, constantly expanding my knowledge to unlock new possibilities."</h3>
 
 <img align="right" alt="coding" width="400" src="https://cdn-gigdb.nitrocdn.com/odwqOnCbjsztNEGqsEeeEiSeGqccZrur/assets/images/optimized/rev-7233d69/wp-content/uploads/2023/06/Website-Development-Company-in-India.gif">
 
