@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Sushant</h1>
-<h3 align="center">"I am an enthusiastic Computer Engineer from India, fueled by the vibrant energy of this incredible nation. With a passion for technology, I delve into the intricate world of programming and computer concepts, constantly expanding my knowledge to unlock new possibilities."</h3>
+<h3 align="center">"I am an enthusiastic Computer Engineer from India, fueled by the vibrant energy of this incredible nation. With a passion for technology, I delve into the intricate world of cloud computing, networking and cybersecurity concepts, constantly expanding my knowledge to unlock new possibilities."</h3>
 
 <img align="right" alt="coding" width="400" src="https://cdn-gigdb.nitrocdn.com/odwqOnCbjsztNEGqsEeeEiSeGqccZrur/assets/images/optimized/rev-7233d69/wp-content/uploads/2023/06/Website-Development-Company-in-India.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sushantmore894&label=Profile%20views&color=0e75b6&style=flat" alt="sushantmore894" /> </p>
 
-- 🌱 I’m currently learning **New Computer Technologies.**
+- 🌱 I’m currently learning **New Cloud Technologies.**
 
 - 📝 I regularly write articles on [https://sushantrajem.wixsite.com/sushantmore](https://sushantrajem.wixsite.com/sushantmore)
 
